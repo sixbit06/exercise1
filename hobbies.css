@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: orangered;
+}
+
+.intro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.music {
+    margin-top: 5%;
+    display: block;
+    margin-right: auto;
+    text-align: left;
+    width: 50%;
+}
+
+.games {
+    margin-top: -22.9%;
+    display: block;
+    margin-left: auto;
+    text-align: right;
+    width: 50%;
+}
+
+.musicimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+.dota {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}

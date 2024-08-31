@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: orangered;
+}
+
+.intro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.link {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    text-align: center;
+}
+
+.end {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+}

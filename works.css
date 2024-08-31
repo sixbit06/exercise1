@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: orangered;
+}
+
+.sample {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.spotify {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.room {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
